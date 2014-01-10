@@ -22,6 +22,7 @@ working with iterables are available from this library, including:
 * `sort`: Lazily sort an iterable
 * `reverse`: Lazily reverse an iterable.
 * `innerJoin`, `leftOuterJoin`, `groupJoin`: Perform an `SQL` style JOIN operation on two iterables.
+
 ...and more.
 
 A lot of these functions are (currently) slower than their dart counterparts, in large part due to the lack
