@@ -11,7 +11,6 @@ The yield library exposes two top level functions, `yield` and `yieldAll`, which
 create lazy generated iterables.
 
 For examples of usage, see the various utility functions implemented in `itertools`
----
 
 ### itertools ###
 
@@ -29,7 +28,6 @@ A lot of these functions are (currently) slower than their dart counterparts, in
 of first class continuations in dart (or an optimised generator implementation). If you have any ideas about
 a more efficient implementation of any of the functions, don't hesitate to file an issue or submit a pull
 request.
----
 
 
 ### tuple ###
