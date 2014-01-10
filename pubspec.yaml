@@ -1,0 +1,8 @@
+name: itertools
+version: 0.1.0
+author: Thomas Stephenson (ovangle@gmail.com)
+description: Various tools for creating and using lazy iterables in dart
+homepage: http://github.com/ovangle/itertools
+dependencies:
+  browser: any
+  unittest: any
